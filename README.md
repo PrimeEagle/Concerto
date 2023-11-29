@@ -10,9 +10,9 @@ A modern programming designed for precision.
 * supports imperative and declarative syntax
 * compiled (interpreted counterpart exists as Cadence, with a subset of features)
 * domain specific for scientific, AI, and game development (these come together in the domain of procedural generation)
-* concurrency and parallelism
+* coroutines, concurrency, and parallelism
 * memory safety
-* interoperability with languages commonly used for the target domains (C++, Python, Rust, C#)
+* interoperability with languages commonly used for the target domains (C, C++, Python, Rust, C#/.NET)
 * standard library
 * toolchain (compiler, transpiler, package manager, VS Code extension for syntax highlighting and intellisense, Visual Studio extension for syntax highlighting and intellisense)
 * macros
@@ -21,6 +21,15 @@ A modern programming designed for precision.
 * reflection
 * effects system
 * algeabric types
+* behavioral subtyping without inheritance
+* pattern matching and multiple dispatch
+* lazy evaluations
+* regular expressions as literals
+* unicode support
+* pipelines and workflows
+* dependency injection
+* code formatter
+* unit testing
 
 
 ## References and Inspirations
