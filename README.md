@@ -10,4 +10,3 @@ A modern programming designed for precision.
 * supports imperative and declarative syntax
 * compiled (interpreted counterpart exists as Cadence, with a subset of features)
 * domain specific for scientific, AI, and game development
-* 
