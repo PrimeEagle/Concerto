@@ -1,5 +1,5 @@
 # Fugue
-A modern programming designed for precision.
+A modern programming language designed for precision.
 
 * units and dimensions are first-class
 * complex numbers
