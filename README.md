@@ -1,5 +1,5 @@
 # Concerto
-A modern programming language with an advanced type system, supporting both object-oriented and functional programming paradigms.
+A modern programming language with an advanced type system, supporting both object-oriented and functional programming paradigms. Concerto also has a compatible interpreted scripting language called [Sonata](https://github.com/PrimeEagle/Sonata).
 
 [documentation](https://primeeagle.github.io/Concerto-Docs/)\
 [c-maestro](https://github.com/PrimeEagle/c-maestro) - [cmt] command line terminal\
